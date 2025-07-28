@@ -73,6 +73,3 @@ gcc bouncy_ball.c -o bouncy_ball -lSDL2 -lm
 - Ensure you have the necessary SDL2 development packages installed.
 - The provided binaries (`audio_player`, `bouncy_ball`) may need to be rebuilt on your system.
 - `sample.wav` must be present in the `SDL_Audio` directory for the audio player to work.
-
-## License
-This project is for educational/demo purposes. See individual files for details. 
